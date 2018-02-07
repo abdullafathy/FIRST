@@ -7,5 +7,5 @@ int y,u,x=7;
 scanf("%d",&u);
 y=x/u;
 
-printf("%d",y);
+printf("%d",y)
 }
